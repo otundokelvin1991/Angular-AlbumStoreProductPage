@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app works!';
+  title = 'Album Product Store';
+  productItem = {
+    name: 'Its Well With My Soul',
+    artist: 'Horratio Spafford',
+    description: 'An inspiprational song for worship'
+  }
 }
