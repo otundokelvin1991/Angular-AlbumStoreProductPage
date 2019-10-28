@@ -7,9 +7,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Album Product Store';
-  productItem = {
-    name: 'Its Well With My Soul',
-    artist: 'Horratio Spafford',
-    description: 'An inspiprational song for worship'
-  }
 }
